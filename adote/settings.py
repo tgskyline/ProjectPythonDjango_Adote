@@ -14,7 +14,7 @@ from pathlib import Path
 import os
 from django.contrib.messages import constants
 from dotenv import load_dotenv
-l
+
 load_dotenv()
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
